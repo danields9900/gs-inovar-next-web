@@ -1,0 +1,103 @@
+[
+    {
+      "filial": {
+        "value": "Total"
+      },
+      "participacao": {
+        "value": "100,00 %"
+      },
+      "vendas": {
+        "value": "22.557.941"
+      },
+      "cresVendas": {
+        "value": "17,40 %"
+      },
+      "metaVendas": {
+        "value": "23.633.278"
+      },
+      "rmVendas": {
+        "value": "95,45 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "001-Lojas - Cobasi"
+      },
+      "participacao": {
+        "value": "90,04 %"
+      },
+      "vendas": {
+        "value": "20.310.473"
+      },
+      "cresVendas": {
+        "value": "16,48 %"
+      },
+      "metaVendas": {
+        "value": "21.298.458"
+      },
+      "rmVendas": {
+        "value": "95,36 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "002-Lojas - Pet Fácil"
+      },
+      "participacao": {
+        "value": "1,36 %"
+      },
+      "vendas": {
+        "value": "305.852"
+      },
+      "cresVendas": {
+        "value": "14,86 %"
+      },
+      "metaVendas": {
+        "value": "321.299"
+      },
+      "rmVendas": {
+        "value": "95,19 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "003-Lojas - Serviços"
+      },
+      "participacao": {
+        "value": "1,73 %"
+      },
+      "vendas": {
+        "value": "390.742"
+      },
+      "cresVendas": {
+        "value": "-39,51 %"
+      },
+      "metaVendas": {
+        "value": "573.521"
+      },
+      "rmVendas": {
+        "value": "68,13 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "004-E-Commerce"
+      },
+      "participacao": {
+        "value": "6,88 %"
+      },
+      "vendas": {
+        "value": "1.550.875"
+      },
+      "cresVendas": {
+        "value": "79,23 %"
+      },
+      "metaVendas": {
+        "value": "1.440.000"
+      },
+      "rmVendas": {
+        "value": "107,70 %"
+      }
+    }
+  ]
+  

@@ -1,0 +1,103 @@
+[
+    {
+      "filial": {
+        "value": "Total"
+      },
+      "margemPdv": {
+        "value": "8.219.712"
+      },
+      "margemPdvVl": {
+        "value": "43,45 %"
+      },
+      "margemPdvVb": {
+        "value": "0,06 %"
+      },
+      "metaMargem": {
+        "value": "8.045.768"
+      },
+      "rmMargem": {
+        "value": "102,16 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "001-Lojas - Cobasi"
+      },
+      "margemPdv": {
+        "value": "7.469.679"
+      },
+      "margemPdvVl": {
+        "value": "44,01 %"
+      },
+      "margemPdvVb": {
+        "value": "0,47 %"
+      },
+      "metaMargem": {
+        "value": "7.234.878"
+      },
+      "rmMargem": {
+        "value": "103,25 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "002-Lojas - Pet Fácil"
+      },
+      "margemPdv": {
+        "value": "114.262"
+      },
+      "margemPdvVl": {
+        "value": "44,44 %"
+      },
+      "margemPdvVb": {
+        "value": "0,42 %"
+      },
+      "metaMargem": {
+        "value": "109.880"
+      },
+      "rmMargem": {
+        "value": "103,99 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "003-Lojas - Serviços"
+      },
+      "margemPdv": {
+        "value": "179.362"
+      },
+      "margemPdvVl": {
+        "value": "46.08 %"
+      },
+      "margemPdvVb": {
+        "value": "-0,38 %"
+      },
+      "metaMargem": {
+        "value": "262.390"
+      },
+      "rmMargem": {
+        "value": "68,37 %"
+      }
+    },
+    {
+      "filial": {
+        "value": "004-E-Commerce"
+      },
+      "margemPdv": {
+        "value": "456.379"
+      },
+      "margemPdvVl": {
+        "value": "35,04 %"
+      },
+      "margemPdvVb": {
+        "value": "-0,75 %"
+      },
+      "metaMargem": {
+        "value": "438.529"
+      },
+      "rmMargem": {
+        "value": "104,07 %"
+      }
+    }
+  ]
+  
